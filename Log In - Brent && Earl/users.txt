@@ -1,0 +1,3 @@
+Barbatos,anemo,Owner
+Morax,geo,Collection Manager
+Beelzebub,electro,Access Manager

@@ -1,0 +1,24 @@
+Borrow ID: 514095
+Book: 13 Reasons Why by James Asher
+ISBN: 9780451478290
+Borrower: Brent
+Deadline: 2024-06-23
+Mobile Number: 1234567891
+Email Address: asdasdasd@gmail.com
+----------------------------------------
+Borrow ID: 620608
+Book: 13 Reasons Why by James Asher
+ISBN: 9780451478290
+Borrower: Kyle
+Deadline: 2024-06-24
+Mobile Number: 1234567891
+Email Address: ztdns@gmail.com
+----------------------------------------
+Borrow ID: 788974
+Book: 13 Reasons Why by James Usher
+ISBN: 9780451478290
+Borrower: Earl
+Deadline: 2024-06-23
+Mobile Number: 12345
+Email Address: @gmail.com
+----------------------------------------
